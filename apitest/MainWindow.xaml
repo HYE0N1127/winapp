@@ -90,7 +90,7 @@
                 Height="50" Width="300" Margin="46,475,46,94" Background="#FFC9C4" BorderBrush="Transparent" FontSize="25" 
                 FontFamily="C:\Users\Hyeon\Desktop\개발\나르샤 프로젝트\Shareboard_winapp\apitest\Resources\" Foreground="White">
             LOGIN
-        </Button>
+        </Button> 
 
         <Button x:Name="signUp" Width="50" Height="20" FontFamily="C:\Users\Hyeon\Desktop\개발\나르샤 프로젝트\Shareboard_winapp\apitest\Resources\"
                 Background="Transparent" Foreground="#9ABCD9" BorderBrush="Transparent" Margin="290,530,52,68">
